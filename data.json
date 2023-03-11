@@ -1,4 +1,4 @@
-const cities = [
+let cities = [
   {
 "City": "Paris",
 "temperature": "-41"   
