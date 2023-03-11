@@ -1,7 +1,19 @@
-const cities = [
-{
-"GrandForks": "-41",
-"Berlin": "4.1",
-"Oodnadatta": "41"
-},
+const Cities = [
+  {
+"City": "Paris",
+"temperature": "-41"   
+  },
+  {
+    "City" : "Bamako",
+    "temperature" : "45"
+  },
+  {
+    "City" : "Berilin",
+    "temperature" : "30"
+  },
+  {
+    "City" : "Toronto",
+    "temperature" : "-41"
+  }
 ]
+
