@@ -1,7 +1,7 @@
 const cities = [
 {
-GrandForks: '-41',
-Berlin: '4.1',
-Oodnadatta: '41'
-}
+"GrandForks": "-41",
+"Berlin": "4.1",
+"Oodnadatta": "41"
+},
 ]
