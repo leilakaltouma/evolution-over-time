@@ -8,8 +8,12 @@
     "temperature" : "45"
   },
   {
-    "City" : "Berilin",
+    "City" : "Berlin",
     "temperature" : "30"
+  },
+  {
+    "City" : "Toronto",
+    "temperature" : "-41"
   },
   {
     "City" : "Toronto",
