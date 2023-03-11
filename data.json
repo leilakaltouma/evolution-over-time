@@ -1,0 +1,7 @@
+const Cities = [
+{
+GrandForks: '-41',
+Berlin: '4.1',
+Oodnadatta: '41'
+}
+]
