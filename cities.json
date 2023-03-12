@@ -1,7 +1,7 @@
 [
   {
-"City": "Paris",
-"temperature": "-41"   
+    "City": "Paris",
+    "temperature": "-41"   
   },
   {
     "City" : "Bamako",
@@ -18,5 +18,13 @@
   {
     "City" : "Toronto",
     "temperature" : "-41"
+  }, 
+  {
+    "City" : "Brussels",
+    "temperature" : "15"
+  }, 
+  {
+    "City" : "Tokyo",
+    "temperature" : "18"
   }
 ]
