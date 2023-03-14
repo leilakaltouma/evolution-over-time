@@ -13,7 +13,7 @@
   },
   {
     "City" : "Toronto",
-    "temperature" : "-41"
+    "temperature" : "41"
   }, 
   {
     "City" : "Brussels",
@@ -22,6 +22,18 @@
   {
     "City" : "Tokyo",
     "temperature" : "18"
+  },
+  {
+    "City" : "London",
+    "temperature" : "31"
+  },
+  {
+    "City" : "Douala",
+    "temperature" : "22"
+  },
+  {
+    "City" : "Dakar",
+    "temperature" : "28"
   },
   {
     "City" : "Washington",
